@@ -10,3 +10,8 @@ A JAVA Game as such: Pokémon monsters (used for battle) in a forest/town settin
 - Simple AI for opponent battles 
 - Classes and methods display depth 
 
+=======
+# pokemonjava
+pokemon simulation, java-based game created by Hamza Usmani
+- Demonstration of JAVA knowledge with applets
+>>>>>>> origin/master
